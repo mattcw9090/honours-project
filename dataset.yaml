@@ -1,0 +1,17 @@
+path: /content/ABOShipsDataset(YOLO)
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Boat
+  1: Motorboat
+  2: Miscboat
+  3: Militaryship
+  4: Passengership
+  5: Seamark
+  6: Sailboat
+  7: Cruiseship
+  8: Miscellaneous
+  9: Cargoship
+  10: Ferry
