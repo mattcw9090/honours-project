@@ -51,8 +51,11 @@ This repository contains my honours project work focused on building **reproduci
 
 ---
 
-## Notes on data handling & privacy
+## Data and thesis availability
 
-- The ABOShips dataset is **not included** in this repo (available upon request).
-- This repo contains only the **code/configs/notebooks** needed to reproduce the analysis.
-- The structure is designed so private/proprietary datasets can be used without committing them to Git.
+- The **ABOShips dataset is not included** in this repository and is shared according to its original license.  
+- The **honours thesis (PDF)** and any additional supporting materials are **available upon request**.  
+- This repository contains only the **code, configuration files, and notebooks** required to reproduce the analysis using appropriately sourced data.
+
+This structure reflects standard practice when working with licensed, private, or sensitive datasets.
+
